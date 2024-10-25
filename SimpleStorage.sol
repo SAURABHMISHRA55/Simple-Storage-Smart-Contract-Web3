@@ -1,8 +1,8 @@
 // I'm a comment!
 // SPDX-License-Identifier: MIT
 
-pragma solidity 0.8.8;
-// pragma solidity ^0.8.0;
+pragma solidity 0.8.26;
+// pragma solidity ^0.8.0; It is written so that it runs on any version in the bracket mentioned below. Or else it will throw error for the older versions.
 // pragma solidity >=0.8.0 <0.9.0;
 
 contract SimpleStorage {
